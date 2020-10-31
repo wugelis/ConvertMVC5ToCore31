@@ -34,3 +34,6 @@
 
 ## 課程 Slide 連結 (SlideShare)：
 <a href="https://www.slideshare.net/GelisWu/net-framework-4x-net-core-30" target="_blank">該準備從 .NET Framework 4.x 遷移至 .NET Core 3.0 了嗎？</a>
+
+## 部落格文章分享 (Gelis 技術隨筆部落格 Google Blogger)
+<a href="https://gelis-dotnet.blogspot.com/2020/08/aspnet-mvc5-net-core-31.html" target="_blank">如呵撰寫一個擴充套件將 ASP.NET MVC5 專案轉換成 .NET Core 3.1 的專案？</a>
