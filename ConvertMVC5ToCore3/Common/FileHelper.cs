@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConvertMVC5ToCore3.Common
+namespace ConvertMVC5ToNET5.Common
 {
     /// <summary>
     /// 

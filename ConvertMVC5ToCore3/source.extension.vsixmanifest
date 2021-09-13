@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ConvertMVC5ToCore3.963c95cb-b79d-45fa-b934-e9f25eb04306" Version="1.0" Language="en-US" Publisher="Gelis" />
-        <DisplayName>ConvertMVC5ToCore3</DisplayName>
-        <Description xml:space="preserve">Convert ASP.MVC5 to ASP.NET Core 3.0 Preview 1 - (.NET Conf 2019)
-將 ASP.NET MVC 5 的專案類型轉換成 ASP.NET Core 3.0 類型的專案。
+        <Identity Id="ConvertMVC5ToCore3.963c95cb-b79d-45fa-b934-e9f25eb04306" Version="1.1" Language="en-US" Publisher="Gelis" />
+        <DisplayName>ConvertMVC5ToNET5</DisplayName>
+        <Description xml:space="preserve">Convert ASP.MVC5 to .NET 5
+將 ASP.NET MVC 5 的專案類型轉換成 ASP.NET Core 5 類型的專案。
 
 建立者：Gelis</Description>
     </Metadata>

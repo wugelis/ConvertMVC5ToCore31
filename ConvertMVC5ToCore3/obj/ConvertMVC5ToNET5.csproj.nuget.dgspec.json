@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3.csproj": {}
+    "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToNET5.csproj": {}
   },
   "projects": {
-    "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3.csproj": {
+    "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToNET5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3.csproj",
-        "projectName": "ConvertMVC5ToCore3",
-        "projectPath": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3.csproj",
+        "projectUniqueName": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToNET5.csproj",
+        "projectName": "ConvertMVC5ToNET5",
+        "projectPath": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToNET5.csproj",
         "packagesPath": "C:\\Users\\Gelis\\.nuget\\packages\\",
         "outputPath": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\obj\\",
         "projectStyle": "PackageReference",

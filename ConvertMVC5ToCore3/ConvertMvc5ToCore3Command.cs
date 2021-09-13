@@ -5,8 +5,8 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using ConvertMVC5ToCore3.ClassesDef;
-using ConvertMVC5ToCore3.Common;
+using ConvertMVC5ToNET5.ClassesDef;
+using ConvertMVC5ToNET5.Common;
 using EnvDTE;
 using Microsoft.Build.Construction;
 using Microsoft.VisualStudio;
@@ -15,7 +15,7 @@ using Microsoft.VisualStudio.Shell.Flavor;
 using Microsoft.VisualStudio.Shell.Interop;
 using Task = System.Threading.Tasks.Task;
 
-namespace ConvertMVC5ToCore3
+namespace ConvertMVC5ToNET5
 {
     /// <summary>
     /// Command handler
@@ -143,8 +143,8 @@ namespace ConvertMVC5ToCore3
         {
             await ThreadHelper.JoinableTaskFactory.SwitchToMainThreadAsync();
 
-            string title = "Convert ASP.NET MVC5 to ASP.NET Core 3";
-            string message = "您想要將目前的 ASP.NET MVC5 的專案 Convert 成 .NET Core 3 類型的專案嗎？";
+            string title = "Convert ASP.NET MVC5 to .NET 5";
+            string message = "您想要將目前的 ASP.NET MVC5 的專案 Convert 成 .NET 5 類型的專案嗎？";
 
             var result = VsShellUtilities.ShowMessageBox(this.package, message, title, OLEMSGICON.OLEMSGICON_INFO, OLEMSGBUTTON.OLEMSGBUTTON_OKCANCEL, OLEMSGDEFBUTTON.OLEMSGDEFBUTTON_FIRST);
 
@@ -258,7 +258,7 @@ namespace ConvertMVC5ToCore3
             projectRoot.Sdk = Constants.Sdk;
             var propertyGroup = projectRoot.AddPropertyGroup(); //projectRoot.PropertyGroups.First();
 
-            propertyGroup.AddProperty(Constants.TargetFramework, Constants.NetCoreApp3);
+            propertyGroup.AddProperty(Constants.TargetFramework, Constants.Net5);
             propertyGroup.AddProperty(Constants.GenerateAssemblyInfo, "false");
 
             //TODO: check to see if the project type is WPF or WinForms.

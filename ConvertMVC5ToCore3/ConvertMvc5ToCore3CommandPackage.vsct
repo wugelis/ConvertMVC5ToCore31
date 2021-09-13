@@ -59,7 +59,7 @@
         <CommandFlag>DefaultInvisible</CommandFlag>
         <CommandFlag>DynamicVisibility</CommandFlag>        
         <Strings>
-          <ButtonText>Convert ASP.NET MVC5 to ASP.NET Core 3</ButtonText>
+          <ButtonText>Convert ASP.NET MVC 5 to .NET 5</ButtonText>
         </Strings>
       </Button>
     </Buttons>

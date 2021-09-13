@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConvertMVC5ToCore3
+namespace ConvertMVC5ToNET5
 {
-    class ProjectData
+    /// <summary>
+    /// 
+    /// </summary>
+    public class ProjectData
     {
         public string AssemblyName { get; set; }
         public string AssemblyVersion { get; set; }

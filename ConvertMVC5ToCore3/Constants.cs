@@ -5,9 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConvertMVC5ToCore3
+namespace ConvertMVC5ToNET5
 {
-    class Constants
+    /// <summary>
+    /// 系統相關 Constants
+    /// 提供 Project Solution 檔案內容置換用
+    /// </summary>
+    public class Constants
     {
         public const string AssemblyInfoFilePath = "Properties\\AssemblyInfo.cs";
         public const string AssemblyAttributeSearchPattern = "[assembly: Assembly";
@@ -16,6 +20,7 @@ namespace ConvertMVC5ToCore3
         public const string CommentPrefix = "//";
         public const string NetFramework = ".NETFramework, Version=v4.5";
         public const string NetCoreApp3 = "netcoreapp3.0";
+        public const string Net5 = "net5.0";
         public const string NuGetPackagesConfigFileName = "packages.config";
         public const string OutputType = "OutputType";
         public const string PackageReference = "PackageReference";
