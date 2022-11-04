@@ -139,7 +139,9 @@ namespace ConvertMVC5ToNET5
         /// </summary>
         /// <param name="sender">Event sender.</param>
         /// <param name="e">Event args.</param>
+#pragma warning disable VSTHRD100 // 避免 async void 方法
         private async void Execute(object sender, EventArgs e)
+#pragma warning restore VSTHRD100 // 避免 async void 方法
         {
             await ThreadHelper.JoinableTaskFactory.SwitchToMainThreadAsync();
 

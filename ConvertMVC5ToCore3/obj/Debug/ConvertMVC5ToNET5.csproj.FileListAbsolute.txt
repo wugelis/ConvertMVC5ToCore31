@@ -20,3 +20,4 @@ D:\Gelis Documents\教育訓練課程\該準備從.NET Framework 4.x遷移至.NE
 D:\Gelis Documents\教育訓練課程\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\Samples\ConvertMVC5ToCore3\ConvertMVC5ToCore3\obj\Debug\extension.vsixmanifest
 D:\Gelis Documents\教育訓練課程\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\Samples\ConvertMVC5ToCore3\ConvertMVC5ToCore3\obj\Debug\files.json
 D:\Gelis Documents\教育訓練課程\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\Samples\ConvertMVC5ToCore3\ConvertMVC5ToCore3\obj\Debug\createTemplateManifests.cache
+D:\Gelis Documents\教育訓練課程\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\Samples\ConvertMVC5ToCore3\ConvertMVC5ToCore3\obj\Debug\ConvertMVC5ToNET5.csproj.AssemblyReference.cache
