@@ -145,8 +145,8 @@ namespace ConvertMVC5ToNET5
         {
             await ThreadHelper.JoinableTaskFactory.SwitchToMainThreadAsync();
 
-            string title = "Convert ASP.NET MVC5 to .NET 5";
-            string message = "您想要將目前的 ASP.NET MVC5 的專案 Convert 成 .NET 5 類型的專案嗎？";
+            string title = "Convert ASP.NET MVC5 to .NET 6";
+            string message = "您想要將目前的 ASP.NET MVC5 的專案 Convert 成 .NET 6 類型的專案嗎？";
 
             var result = VsShellUtilities.ShowMessageBox(this.package, message, title, OLEMSGICON.OLEMSGICON_INFO, OLEMSGBUTTON.OLEMSGBUTTON_OKCANCEL, OLEMSGDEFBUTTON.OLEMSGDEFBUTTON_FIRST);
 
@@ -260,7 +260,7 @@ namespace ConvertMVC5ToNET5
             projectRoot.Sdk = Constants.Sdk;
             var propertyGroup = projectRoot.AddPropertyGroup(); //projectRoot.PropertyGroups.First();
 
-            propertyGroup.AddProperty(Constants.TargetFramework, Constants.Net5);
+            propertyGroup.AddProperty(Constants.TargetFramework, Constants.Net6);
             propertyGroup.AddProperty(Constants.GenerateAssemblyInfo, "false");
 
             //TODO: check to see if the project type is WPF or WinForms.

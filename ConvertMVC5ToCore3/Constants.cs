@@ -21,6 +21,7 @@ namespace ConvertMVC5ToNET5
         public const string NetFramework = ".NETFramework, Version=v4.5";
         public const string NetCoreApp3 = "netcoreapp3.0";
         public const string Net5 = "net5.0";
+        public const string Net6 = "net6.0";
         public const string NuGetPackagesConfigFileName = "packages.config";
         public const string OutputType = "OutputType";
         public const string PackageReference = "PackageReference";

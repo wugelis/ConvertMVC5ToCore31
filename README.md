@@ -3,6 +3,11 @@
 
 ## 原始碼內容為下方【移轉實例 Demo】中使用的 Visual Studio (擴充套件／VsPackage) 原始碼
 
+## 2022-11-4 更新支援 .NET 6
+更新 OleMenuItemcommand 文字、增加 TFM = "net6.0"、其他相關調整
+
+## 2021-9-13 更新支援 .NET 5
+
 大綱：
 * 該做好準備嗎？
     * 	為什麼需要準備？

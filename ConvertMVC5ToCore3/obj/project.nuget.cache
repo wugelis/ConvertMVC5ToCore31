@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uDkDR47vrXjnOYsYYwFltB0ZhIx2JCOXAYXuAL6FDmrmyfM19bC45PRcaZ/GPfDW/PW1pwP6jUv/SsxQUKKkYA==",
+  "dgSpecHash": "XPOhBOsOn0r1BKJhqOmPWPGnLpsCxlG/ifPHgsDK495VUHTq/26QRZ3SQCxIyWn2NRZe5iOhryzJ6t8iulHZ9Q==",
   "success": true,
-  "projectFilePath": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToNET5.csproj",
+  "projectFilePath": "D:\\Gelis Documents\\教育訓練課程\\該準備從.NET Framework 4.x遷移至.NET Core 3.0了嗎\\Samples\\ConvertMVC5ToCore3\\ConvertMVC5ToCore3\\ConvertMVC5ToNET6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gelis\\.nuget\\packages\\envdte\\8.0.2\\envdte.8.0.2.nupkg.sha512",
     "C:\\Users\\Gelis\\.nuget\\packages\\envdte100\\10.0.3\\envdte100.10.0.3.nupkg.sha512",

@@ -59,7 +59,7 @@
         <CommandFlag>DefaultInvisible</CommandFlag>
         <CommandFlag>DynamicVisibility</CommandFlag>        
         <Strings>
-          <ButtonText>Convert ASP.NET MVC 5 to .NET 5</ButtonText>
+          <ButtonText>Convert ASP.NET MVC 5 to .NET 6</ButtonText>
         </Strings>
       </Button>
     </Buttons>
